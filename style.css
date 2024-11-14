@@ -1,0 +1,73 @@
+/* index */
+.header {
+    padding: 0% 25%;
+    color: red;
+}
+
+/* index */
+.title_important {
+    padding: 0 0;
+    margin: 5px 50px;
+    color: rgb(132, 0, 0);
+    font-size: 20px;
+
+}
+
+/* Formule */
+.title_page_formule {
+    color: red;
+    padding: 0% 30%
+}
+
+/* Proto */
+.title_page_proto {
+    color: red;
+    padding: 0 30%;
+}
+
+/* GT */
+.title_page_Autres_voitures {
+    color: red;
+    padding: 0% 30%;
+}
+
+/* autres pages */
+.intro1 {
+    display: inline-block;
+    background-color: rgb(137, 135, 135);
+    font-size: large;
+}
+
+/* Proto */
+.intro2 {
+    background-color: rgb(186, 185, 185);
+    font-size: large;
+}
+
+/* index */
+.photo_category {
+    color: lightcoral;
+    padding-top: 5px;
+}
+
+/* Formule  */
+.image {
+    margin-top: O;
+}
+
+/* autres pages */
+li{
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+/* autres pages */
+.text {
+    font-size: 17px;
+}
+
+
+/* Formule 1 */
+#moteur_Honda {
+    margin-top: 15px;
+}
